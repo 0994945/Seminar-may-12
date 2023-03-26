@@ -1,3 +1,6 @@
+Are you ready for the "Superminds"
+Artificial intelligence (AI) is no longer just a buzzword or a topic found only in science fiction. It has become an integral part of our lives, with its significant impact on individuals and its ability to enhance anthropomorphic characteristics. As a result, AI has become a phenomenon that many people are interested in, including ChatGPT.
+
 De training van een taalmodel
 Deze workshop geeft inzicht in het proces van het verzamelen van gegevens voor het trainen van taalmodellen zoals ChatGPT, inclusief het identificeren en scrapen van tekstgegevens, voorbewerking, modellering en evaluatie. Deelnemers zullen een beter begrip krijgen van het trainingsproces van taalmodellen.
 
