@@ -1,0 +1,31 @@
+De training van een taalmodel
+Deze workshop geeft inzicht in het proces van het verzamelen van gegevens voor het trainen van taalmodellen zoals ChatGPT, inclusief het identificeren en scrapen van tekstgegevens, voorbewerking, modellering en evaluatie. Deelnemers zullen een beter begrip krijgen van het trainingsproces van taalmodellen.
+
+Hoe kan Chat-GPT studeren makkelijker kan maken
+In deze workshop leggen wij uit hoe je AI het beste kunt gebruiken tijdens je studie. We bespreken efficiënte manieren om te studeren die voldoen aan de richtlijnen van Hogeschool Rotterdam. Daarnaast behandelen we de voor- en nadelen van het gebruik van AI tijdens je studie.
+
+ChatGPT vs Google Search
+"NL: Wil je weten of google search nog blijft bestaan of dat ChatGPT het compleet over gaat nemen? Kom dan langs bij de workshop Battle of the search tintans ChatGPT vs Google search. We gaan jullie kennis van beide platformen testen en jullie mening aanhoren
+"
+ENG: Join either side in the greatest battle of our generation. Can you overpower the status quo with team GPT or embolden the masses with ol’reliable, team Google.
+
+The impact of AI in today’s business
+AI technology is one of the most exciting developments in recent years. In our workshop we will explain how to make use of AI (Chat GTP in particular) in business. The focus of this workshop is to teach a basic understanding of possibilities of AI. Furthermore, students will use Chat GTP as a support to solve managerial problems and create solutions.
+
+ChatGPT and bias; building ethical and unbiased systems
+This workshop will focus on exploring the intersection of AI and ethics by examining the potential for bias in ChatGPT, a large language model. Through a combination of presentations, discussions, participants will learn how an AI system such as ChatGPT can be biased and how to deal with this.
+
+Discover the secrets to maximizing the potential of Chat GPT
+Elevate your communication game with our expert-led Chat GPT workshop. Learn to craft perfect prompts, use context to guide conversations, and generate diverse responses. Master Chat GPT's capabilities and seamlessly integrate them into your workflows for constant learning and improvement in just one session.
+
+Is ChatGPT making us dumber or smarter?
+Join our workshop on ChatGPT's opportunities to boost your intelligence. Learn how interacting with a cutting-edge language model can enhance your skillsets. Discover the possibilities of ChatGPT to broaden your knowledge and unlock your potential!
+
+Who needs a teacher when you have ChatGPT?
+This interactive workshop compares ChatGTP and traditional teaching methods through engaging games and discussions. We explore the benefits and drawbacks of both approaches and imagine a future where AI and human teachers work together to create a more effective and utopian educational system.
+
+ChatGPT vs. Het Chatbot Leger: De Grenzen van AI-gesprekken Verkennen
+Ontdek verschillende chatbot technieken en leer het verschil tussen ChatGPT en andere chatbots kennen tijdens onze praktijkgerichte workshop. Creëer een AI-eerlijkheid use-case en meet zo de impact van AI in de praktijk. Meld je nu aan voor deze leerervaring!
+
+Bouw een AI-docent met ChatGPT
+Transformeer de toekomst van onderwijs en doe mee aan onze workshop om een 'digitale docent' te bouwen met GPT-4 technologie! Met deze veelzijdige tool kunnen we zowel tekst als beelden verwerken als invoer en ons onderwijs slimmer en efficiënter maken. Schrijf je in en ontdek hoe je de grenzen van onderwijs en Artificial Intelligence kunt verleggen.
